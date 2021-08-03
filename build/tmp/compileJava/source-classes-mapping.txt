@@ -1,0 +1,6 @@
+kannon/aaron/classes/Curso.java
+ kannon.aaron.classes.Curso
+kannon/aaron/classes/Aluno.java
+ kannon.aaron.classes.Aluno
+kannon/aaron/exe/Main.java
+ kannon.aaron.exe.Main
